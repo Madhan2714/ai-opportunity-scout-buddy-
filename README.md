@@ -33,6 +33,19 @@ This MVP proves our core logic is sound and ready to be connected to any data so
 * **Database:** Airtable
 * **AI Model:** `gpt-oss-120b` (via Groq API)
 * **Notifications:** Gmail
+
+## ⚙️ How to Run This Workflow
+
+This project is an n8n workflow. To test it, you would need to:
+1.  Set up a free n8n cloud account or self-host n8n.
+2.  Download the `My workflow (1).json` file from this repository.
+3.  Import the workflow into your n8n instance.
+4.  Create three credentials within n8n:
+    * An Airtable credential.
+    * A Groq API credential for the AI model.
+    * A Gmail credential for notifications.
+5.  Create an Airtable base with the same structure as shown in the screenshots and populate it with some sample data.
+6.  Activate the workflow and run it manually to see the results.
  
 ## 🧠 The Agent's Brain: A Visual Workflow
 We designed our agent's logic visually using n8n to ensure a clear and powerful flow. 
