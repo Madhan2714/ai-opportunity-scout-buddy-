@@ -38,7 +38,7 @@ This MVP proves our core logic is sound and ready to be connected to any data so
 We designed our agent's logic visually using n8n to ensure a clear and powerful flow. 
 The screenshot below shows the complete end-to-end process, from fetching raw data to sending intelligent notifications.
 
-`![AI Scout Workflow Diagram](https://github.com/user-attachments/assets/2c992fa7-0979-4e6c-8170-361145a3dac7)` 
+`![AI Scout Workflow Diagram](https://github.com/user-attachments/assets/2c992fa7-0979-4e6c-8170-361145a3dac7) '
 
 This architecture is not just a simple script; it's a complete system that includes:
 * **Parallel Processing:** The `If` node creates two separate branches to handle "Senior" level jobs and student-level opportunities differently.
@@ -55,7 +55,7 @@ Our agent's effectiveness is best shown with a "before and after" of our databas
  `![After Data Screenshot](https://github.com/user-attachments/assets/6468ae6f-5721-4833-8cdc-fe9eb41d9f3e)'
 
 
-our n8n workflow 
+
 ## 🔮 Future Vision
 With this intelligent core successfully built, the next steps are to:
 * Integrate live data scrapers for specific company career pages and job boards.
