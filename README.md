@@ -33,7 +33,7 @@ This MVP proves our core logic is sound and ready to be connected to any data so
 * **Database:** Airtable
 * **AI Model:** `gpt-oss-120b` (via Groq API)
 * **Notifications:** Gmail
-
+ 
 ## 🧠 The Agent's Brain: A Visual Workflow
 We designed our agent's logic visually using n8n to ensure a clear and powerful flow. 
 The screenshot below shows the complete end-to-end process, from fetching raw data to sending intelligent notifications.
