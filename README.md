@@ -1,6 +1,6 @@
 # AI Opportunity Scout(Buddy) : An Autonomous Agent for Students
 An autonomous AI agent that finds and processes job opportunities for students.
-# AI Opportunity Scout: An Autonomous Agent for Students
+# AI Opportunity Scout: An Autonomous Agent for Students 
 
 ## 🎯 The Mission
 The journey from student to professional is filled with opportunities: internships, hackathons, and entry-level jobs. The problem? These opportunities are scattered across dozens of company portals, complex job boards like LinkedIn, and countless newsletters.
